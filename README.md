@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Something sdn related
-- 🌱 I’m currently learning sdn also , and some algorithm that I not familiar with ,and English.
+- 🌱 I’m currently learning sdn also , and some algorithm that I not familiar with, and English.
 <!--
 **JackyCZJ/JackyCZJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
