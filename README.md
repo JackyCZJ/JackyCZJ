@@ -1,6 +1,13 @@
-### Hi there 👋
-- 🔭 I’m currently working on Something sdn related
-- 🌱 I’m currently learning sdn also , and some algorithm that I not familiar with, and English.
+
+
+## Hi there 👋
+1. 🔭 I’m currently working on something sdn related
+2. 🌱 I’m currently learning sdn also , and some algorithm that I not familiar with, and English.
+
+## My Github Stats 🔭
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=jackyczj&show_icons=true&theme=nord" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackyczj&hide=html,css&theme=nord">
+
 <!--
 **JackyCZJ/JackyCZJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
