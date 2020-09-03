@@ -8,8 +8,8 @@ Lang := struct {
 	Language []string
 	ProgrammingLanguage []string
 }{
-  Language: []string{ "Mandarin","Cantonese","English"},
-  ProgrammingLanguage: []string{"Golang","Javascript","PHP"}
+  Language: 		[]string{ "Mandarin","Cantonese","English"},
+  ProgrammingLanguage:  []string{"Golang","Javascript","PHP"}
 }
 ```
 
