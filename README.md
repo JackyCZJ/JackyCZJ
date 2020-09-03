@@ -3,6 +3,15 @@
 ## Hi there 👋
 1. 🔭 I’m currently working on something sdn related
 2. 🌱 I’m currently learning sdn also , and some algorithm that I not familiar with, and English.
+```golang
+struct {
+	Language []string
+	ProgrammingLanguage []string
+}{
+  Language: []string{ "Mandarin","Cantonese","English"},
+  ProgrammingLanguage: []string{"Golang","Javascript","PHP"}
+}
+```
 
 ## My Github Stats 🔭
 <p align="left">
