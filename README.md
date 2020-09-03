@@ -5,11 +5,11 @@
 2. 🌱 I’m currently learning sdn also , and some algorithm that I not familiar with, and English.
 ```golang
 Lang := struct {
-	Language []string
+	Language 	    []string
 	ProgrammingLanguage []string
 }{
-  Language: 		[]string{ "Mandarin","Cantonese","English"},
-  ProgrammingLanguage:  []string{"Golang","Javascript","PHP"}
+  Language: 		[]string{ "Mandarin", "Cantonese"  , "English"},
+  ProgrammingLanguage:  []string{ "Golang"  , "Javascript" , "PHP"}
 }
 ```
 
