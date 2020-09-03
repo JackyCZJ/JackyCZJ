@@ -4,7 +4,7 @@
 1. 🔭 I’m currently working on something sdn related
 2. 🌱 I’m currently learning sdn also , and some algorithm that I not familiar with, and English.
 ```golang
-struct {
+Lang := struct {
 	Language []string
 	ProgrammingLanguage []string
 }{
