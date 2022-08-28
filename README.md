@@ -18,7 +18,7 @@ Lang := struct {
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=jackyczj&show_icons=true&theme=nord" />
 <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackyczj&hide=html,css&theme=nord">
 </p>
-<img src="https://github-profile-trophy.vercel.app/?username=jackyczj&column=6&theme=onedark" alt="logo" height="160" style="margin: auto; margin-bottom: 20px;" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=jackyczj&column=6&theme=onedark" alt="logo" height="160" style="margin: auto; margin-bottom: 20px;" /> -->
 <!--
 **JackyCZJ/JackyCZJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
