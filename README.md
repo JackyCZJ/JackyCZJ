@@ -1,8 +1,8 @@
 
 
 ## Hi there 👋
-1. 🔭 I’m currently working on something sdn related.
-2. 🌱 I’m currently learning sdn also , and some algorithm that I not familiar with, and English.
+1. 🔭 I’m currently working on Openwrt relate project
+
 ```golang
 Lang := struct {
 	Language 	    []string
