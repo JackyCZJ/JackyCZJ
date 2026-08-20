@@ -1,35 +1,50 @@
+<div align="center">
 
+# lazy guy
 
-## Hi there 👋
-1. 🔭 I’m currently working on Openwrt relate project
+陈小生 / Jacky Chan
 
-```golang
-Lang := struct {
-	Language 	    []string
-	ProgrammingLanguage []string
-}{
-  Language: 		[]string{ "Mandarin", "Cantonese"  , "English"},
-  ProgrammingLanguage:  []string{ "Golang"  , "Javascript" , "PHP"}
+偶尔写代码，大部分时间在踩坑和修坑之间循环。
+
+[博客](https://natech.top) · 粤语 / 普通话 / English
+
+</div>
+
+```go
+package me
+
+type Guy struct {
+	Alias  string
+	Mood   string
+	Speaks []string
+	Writes []string
+	Avoids []string
+	Blog   string
+}
+
+var Me = Guy{
+	Alias:  "lazy guy",
+	Mood:   "curious, then tired",
+	Speaks: []string{"粤语", "普通话", "English"},
+	Writes: []string{"Go", "TypeScript", "shell 糊弄学"},
+	Avoids: []string{"早起", "PPT", "认真写简历"},
+	Blog:   "https://natech.top",
 }
 ```
 
-## My Github Stats 🔭
+仓库大多是玩具。能跑算成功。
+
+## 架子上的玩具
+
+- **[清迈现在去哪](https://github.com/JackyCZJ/cnx-now)** — 看眼前这个点钟，决定清迈该吃还是该溜
+- **[领克签到](https://github.com/JackyCZJ/lynkco-checkin)** — 一个不想每天打开 App 的人，写了个 CLI 代劳
+- **[黑果遗物](https://github.com/JackyCZJ/Z370M-MORTAR-I7-9700K-M9PEG-OC)** — 玩到最后去买了白果，配置还留在这
+
+## 最近在干嘛
+
+vibe coding 换了一把博客主题，翻车实录在 [这儿](https://natech.top/2026/02/25/vibe-coding-blog-migration-notes/)。
+
 <p align="left">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=jackyczj&show_icons=true&theme=nord" />
-<img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackyczj&hide=html,css&theme=nord">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JackyCZJ&show_icons=true&theme=nord&hide_title=true&hide_rank=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackyCZJ&layout=compact&theme=nord&hide=html,css,makefile" alt="Top languages" />
 </p>
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=jackyczj&column=6&theme=onedark" alt="logo" height="160" style="margin: auto; margin-bottom: 20px;" /> -->
-<!--
-**JackyCZJ/JackyCZJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
