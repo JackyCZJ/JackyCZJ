@@ -1,8 +1,6 @@
 <div align="center">
 
-# lazy guy
-
-陈小生 / Jacky Chan
+# Jacky Chan
 
 偶尔写代码，大部分时间在踩坑和修坑之间循环。
 
@@ -13,18 +11,14 @@
 ```go
 package me
 
-type Guy struct {
-	Alias  string
-	Mood   string
+type Jacky struct {
 	Speaks []string
 	Writes []string
 	Avoids []string
 	Blog   string
 }
 
-var Me = Guy{
-	Alias:  "lazy guy",
-	Mood:   "curious, then tired",
+var Me = Jacky{
 	Speaks: []string{"粤语", "普通话", "English"},
 	Writes: []string{"Go", "TypeScript", "shell 糊弄学"},
 	Avoids: []string{"早起", "PPT", "认真写简历"},
