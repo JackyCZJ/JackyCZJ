@@ -40,11 +40,7 @@ var Me = Guy{
 - **[领克签到](https://github.com/JackyCZJ/lynkco-checkin)** — 一个不想每天打开 App 的人，写了个 CLI 代劳
 - **[黑果遗物](https://github.com/JackyCZJ/Z370M-MORTAR-I7-9700K-M9PEG-OC)** — 玩到最后去买了白果，配置还留在这
 
-## 最近在干嘛
-
-vibe coding 换了一把博客主题，翻车实录在 [这儿](https://natech.top/2026/02/25/vibe-coding-blog-migration-notes/)。
-
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JackyCZJ&show_icons=true&theme=nord&hide_title=true&hide_rank=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackyCZJ&layout=compact&theme=nord&hide=html,css,makefile" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=JackyCZJ&show_icons=true&theme=nord&hide_title=true&hide_rank=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JackyCZJ&layout=compact&theme=nord&hide=html,css,makefile" alt="Top languages" />
 </p>
